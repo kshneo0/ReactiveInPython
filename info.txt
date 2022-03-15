@@ -1,0 +1,53 @@
+
+
+--------------------
+
+섹션 1: Installation and Setup
+
+--------------------
+
+1. The Course Overview
+
+--------------------
+
+2. Installing RxPy Reactive Extensions
+
+pip install rx
+
+--------------------
+--------------------
+--------------------
+--------------------
+--------------------
+--------------------
+--------------------
+
+
+
+2. Installing RxPy Reactive Extensions
+3. Installing Qt5 and PyQt5
+4. Installing the Tornado Web Framework
+섹션 2: Reactive Extensions for Python
+5. What Is Reactive Programming?
+6. Reactive Operators and Observables – From, Interval, and Buffer
+7. More Reactive Operators and Observables – Group By, Sample, and Max
+8. Loading CSV Data Reactively with RxPy
+9. Even More Reactive Operators – Map, FlatMap, Window, CombineLatest, and Zip
+섹션 3: Reactive GUIs and Data Flows with Qt and RxPy
+10. Hello World GUI with a Simple Reactive Button
+11. Displaying/Filtering Table Data from a Real-Time Source
+12. Real-Time Form Validation
+섹션 4: Reactive Web Servers/Clients with the Tornado Web Framework
+13. Async Real-Time Web Server
+14. Real-Time Async Client – Part 1
+15. Queues in Tornado
+16. Real-Time Async Client - Part 2
+섹션 5: Testing Reactive GUIs and a Cluster of Web Servers/Clients
+17. Unit Testing a Basic Reactive Data Flow
+18. Unit Testing a GUI Reactive Data Flow
+19. Unit Testing a Reactive Tornado Server
+20. Building and Testing a Web Server Cluster
+섹션 6: Build a Reactive Real-Time Stock Exchange
+21. Stock Exchange Web Server with WebSockets
+22. Stock Exchange GUI to Display Orders
+23. Connecting the Stock Exchange Reactive Client to the Server
