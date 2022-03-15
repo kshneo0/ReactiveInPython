@@ -15,17 +15,21 @@
 pip install rx
 
 --------------------
---------------------
---------------------
---------------------
---------------------
---------------------
---------------------
 
-
-
-2. Installing RxPy Reactive Extensions
 3. Installing Qt5 and PyQt5
+
+pip install PyQt5
+
+--------------------
+--------------------
+--------------------
+--------------------
+--------------------
+--------------------
+
+
+
+
 4. Installing the Tornado Web Framework
 섹션 2: Reactive Extensions for Python
 5. What Is Reactive Programming?
